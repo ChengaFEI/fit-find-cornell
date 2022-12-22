@@ -1,0 +1,6 @@
+framework module Pods_FitFindCornell {
+  umbrella header "Pods-FitFindCornell-umbrella.h"
+
+  export *
+  module * { export * }
+}
